@@ -14,3 +14,6 @@ $ figlet -tf erosion "erosion"
 █▓▒░    █▓▒░█▓▒░ █▓▒░ █▓▒░█▓▒░  █▓▒░█▓▒░█▓▒░ █▓▒░█▓▒░ ██▓▒░
 █████▓▒░█▓▒░ █▓▒░ ████▓▒░  █████▓▒░ █▓▒░ ████▓▒░ █▓▒░  █▓▒░
 ```
+
+
+<sub><sub>it doesn't look as bad in a terminal</sub></sub>
